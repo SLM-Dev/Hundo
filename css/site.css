@@ -5,6 +5,12 @@
     --white-color: #dff3e4;
 }
 
+.logoFont{
+    /* font of racing wars */
+    font-family: 'Racing Sans One', sans-serif;
+    font-size: 2.5rem;
+    font-style: italic;
+}
 /* Affect the entire document  */
 body{
     color:var(--dark-color);
