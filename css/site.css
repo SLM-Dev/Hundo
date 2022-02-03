@@ -4,7 +4,14 @@
     --dark-color: #292929;
     --white-color: #dff3e4;
 }
+.odd {
+    font-weight: 100;
+}
 
+.even {
+    font-weight: bold;
+    font-size: large;
+}
 .logoFont{
     /* font of racing wars */
     font-family: 'Racing Sans One', sans-serif;
@@ -76,6 +83,7 @@ white-space: pre-wrap;
 word-break: break-all;
 word-wrap: break-word;
 }
+
 
 
 main>.container{
